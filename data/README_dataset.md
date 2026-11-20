@@ -68,7 +68,3 @@ Suggested joins:
 product_inventory = inventory_df.merge(products_df, on="sku", how="left")
 product_sales = sales_df.merge(products_df[["sku", "unit_cost"]], on="sku", how="left")
 ```
-
-## Important modelling note
-
-This is a teaching dataset, not a statistically representative demand forecast. Sales transaction frequency and quantities were designed to create useful practice cases. Do not interpret the generated patterns as real market behaviour.
