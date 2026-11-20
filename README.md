@@ -70,13 +70,20 @@ Shows the successful generation of the product analysis, inventory summary, cate
 ```text
 Slow-Moving-Dead-Stock-Analysis/
 │
+├── charts/
+│   ├── inventory_status.png
+│   ├── category_risk.png
+│   ├── inventory_value.png
+│   └── dead_stock.png
+│
 ├── data/
 │   ├── products.csv
 │   ├── sales.csv
 │   └── inventory_snapshot.csv
 │
-├── src/
-│   └── main.py
+├── docs/
+│   ├── dataset.md
+│   └── executive_summary.md
 │
 ├── outputs/
 │   ├── product_analysis_report.csv
@@ -91,6 +98,11 @@ Slow-Moving-Dead-Stock-Analysis/
 │   ├── 04_dead_stock_products.png
 │   ├── 05_product_recommendations.png
 │   └── 06_report_exports.png
+│
+├── src/
+│   ├──charts.py
+│   └── main.py
+│
 └── README.md
 ```
 
