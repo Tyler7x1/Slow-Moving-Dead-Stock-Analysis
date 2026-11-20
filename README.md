@@ -163,6 +163,34 @@ The analysis produced the following results:
 | New products | 2 |
 | Out-of-stock products | 2 |
 
+## Data Visualisations
+
+The analysis generates four visual reports to help interpret inventory performance and identify financial risk.
+
+### 1. Inventory Status Distribution
+
+Shows the distribution of products across different inventory movement categories.
+
+![Inventory Status Distribution](charts/inventory_status.png)
+
+### 2. Capital at Risk by Product Category
+
+Highlights the product categories with the highest value of slow-moving and dead stock inventory.
+
+![Category Risk](charts/category_risk.png)
+
+### 3. Inventory Value by Stock Status
+
+Compares the financial value of inventory across different movement categories.
+
+![Inventory Value](charts/inventory_value.png)
+
+### 4. Top 5 Dead Stock Products
+
+Identifies the five dead stock products with the highest inventory value, helping prioritise clearance decisions.
+
+![Top Dead Stock Products](charts/dead_stock.png)
+
 ### Category-level findings
 
 - Computers have the highest absolute capital at risk, at ₹34,32,000.

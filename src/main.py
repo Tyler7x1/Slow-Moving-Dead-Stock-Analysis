@@ -1,3 +1,4 @@
+from charts import generate_all_charts
 
 from pathlib import Path
 
@@ -633,6 +634,13 @@ def main():
     # Export the reports as CSV files.
     export_reports(
         product_analysis,
+        inventory_summary,
+        category_summary,
+        dead_stock
+    )
+
+    # Generate visual reports.
+    generate_all_charts(
         inventory_summary,
         category_summary,
         dead_stock

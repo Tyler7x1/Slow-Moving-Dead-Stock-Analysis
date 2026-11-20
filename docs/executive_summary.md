@@ -9,6 +9,20 @@ Across the 20 products analysed, total inventory value was **₹1,14,39,250**. O
 
 This represents a substantial opportunity to improve inventory management and reduce the amount of capital tied up in unsold products.
 
+## Visual Business Insights
+
+### Inventory Status Distribution
+
+The chart illustrates how the product portfolio is distributed across inventory movement categories, highlighting the presence of slow-moving and dead stock.
+
+![Inventory Status Distribution](charts/inventory_status.png)
+
+### Capital at Risk by Product Category
+
+This chart identifies categories where inventory capital is most exposed to slow-moving and dead stock risk. These categories should receive priority attention when planning clearance and inventory optimisation activities.
+
+![Capital at Risk by Category](charts/category_risk.png)
+
 ### Where Management Should Focus
 
 **1. Computers — ₹34,32,000 at risk**
