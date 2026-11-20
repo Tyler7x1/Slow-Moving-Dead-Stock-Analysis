@@ -1,0 +1,21 @@
+sku,product_name,category,supplier,launch_date,unit_cost,reorder_level,lead_time_days
+SKU001,Business Laptop 14-inch,Computers,TechWorld Solutions,2024-09-11,52000,18,14
+SKU002,Android Smartphone 128GB,Mobile Devices,Global Electronics,2024-11-30,18500,25,10
+SKU003,4K LED Monitor 27-inch,Display Devices,Prime Distributors,2025-06-18,14500,12,12
+SKU004,Wireless Keyboard and Mouse,Computer Accessories,SmartTech Enterprises,2024-03-15,1250,30,8
+SKU005,Portable SSD 1TB,Storage Devices,Digital Products Pvt Ltd,2024-06-03,6200,20,9
+SKU006,Bluetooth Party Speaker,Audio Equipment,Global Electronics,2025-12-05,4800,15,14
+SKU007,Gaming Laptop 15-inch,Computers,TechWorld Solutions,2026-08-22,78000,5,21
+SKU008,Laser Multifunction Printer,Office Equipment,Prime Distributors,2026-03-25,16500,8,18
+SKU009,Fitness Smartwatch,Wearable Technology,SmartTech Enterprises,2026-02-13,5500,12,10
+SKU010,Entry DSLR Camera,Photography Equipment,Digital Products Pvt Ltd,2026-10-06,42500,3,28
+SKU011,Dual-Band Wi-Fi Router,Networking Equipment,Prime Distributors,2026-06-13,3200,10,7
+SKU012,External HDD 2TB,Storage Devices,Global Electronics,2026-07-18,4900,8,12
+SKU013,Office Projector 3500 Lumens,Display Devices,TechWorld Solutions,2026-10-21,28500,2,25
+SKU014,Wired USB Headset,Audio Equipment,SmartTech Enterprises,2025-12-25,950,10,7
+SKU015,USB-C Docking Station,Computer Accessories,Digital Products Pvt Ltd,2025-10-06,6800,8,14
+SKU016,Compact Document Scanner,Office Equipment,Prime Distributors,2026-02-03,11900,4,21
+SKU017,True Wireless Earbuds Gen 2,Mobile Accessories,Global Electronics,2026-10-19,2100,15,7
+SKU018,Android Tablet 10-inch,Mobile Devices,TechWorld Solutions,2026-09-23,16200,8,14
+SKU019,5G Smartphone 256GB,Mobile Devices,Digital Products Pvt Ltd,2024-12-30,28500,20,10
+SKU020,Colour Inkjet Printer,Office Equipment,SmartTech Enterprises,2025-05-29,8900,6,16
