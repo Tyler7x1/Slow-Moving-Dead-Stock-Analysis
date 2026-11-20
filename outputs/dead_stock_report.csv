@@ -1,8 +1,8 @@
-sku,product_name,category,supplier,launch_date,unit_cost,reorder_level,lead_time_days,sale_date,days_since_launch,days_since_last_sale,current_stock,average_monthly_demand,stock_cover,inventory_value,stock_status,capital_at_risk
-SKU010,Entry DSLR Camera,Photography Equipment,Digital Products Pvt Ltd,2026-10-06,42500,3,28,2026-04-19,45,215.0,18,3.0833333333333335,5.837837837837838,765000,Dead Stock,765000
-SKU011,Dual-Band Wi-Fi Router,Networking Equipment,Prime Distributors,2026-06-13,3200,10,7,2026-03-17,160,248.0,65,3.5833333333333335,18.13953488372093,208000,Dead Stock,208000
-SKU012,External HDD 2TB,Storage Devices,Global Electronics,2026-07-18,4900,8,12,2026-04-29,125,205.0,48,2.3333333333333335,20.57142857142857,235200,Dead Stock,235200
-SKU013,Office Projector 3500 Lumens,Display Devices,TechWorld Solutions,2026-10-21,28500,2,25,2026-02-01,30,292.0,14,2.1666666666666665,6.461538461538462,399000,Dead Stock,399000
-SKU014,Wired USB Headset,Audio Equipment,SmartTech Enterprises,2025-12-25,950,10,7,,330,,90,,,85500,Dead Stock,85500
-SKU015,USB-C Docking Station,Computer Accessories,Digital Products Pvt Ltd,2025-10-06,6800,8,14,,410,,42,,,285600,Dead Stock,285600
-SKU016,Compact Document Scanner,Office Equipment,Prime Distributors,2026-02-03,11900,4,21,,290,,24,,,285600,Dead Stock,285600
+sku,product_name,category,current_stock,days_since_last_sale,inventory_value
+SKU010,Entry DSLR Camera,Photography Equipment,18,215.0,765000
+SKU013,Office Projector 3500 Lumens,Display Devices,14,292.0,399000
+SKU015,USB-C Docking Station,Computer Accessories,42,,285600
+SKU016,Compact Document Scanner,Office Equipment,24,,285600
+SKU012,External HDD 2TB,Storage Devices,48,205.0,235200
+SKU011,Dual-Band Wi-Fi Router,Networking Equipment,65,248.0,208000
+SKU014,Wired USB Headset,Audio Equipment,90,,85500

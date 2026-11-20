@@ -1,6 +1,6 @@
-stock_status,inventory_value
-Dead Stock,2263900
-Fast Moving,2997150
-New Product,332700
-Out of Stock,0
-Slow Moving,5845500
+stock_status,inventory_value,product_count,inventory_share_percentage
+Slow Moving,5845500,4,51.10037808422755
+Fast Moving,2997150,5,26.200581331818086
+Dead Stock,2263900,7,19.7906331271718
+New Product,332700,2,2.9084074567825686
+Out of Stock,0,2,0.0

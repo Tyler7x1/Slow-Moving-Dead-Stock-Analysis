@@ -1,12 +1,12 @@
-category,total_inventory_value,capital_at_risk,product_count,risk_percentage
-Computers,4888000,3432000,2,70.2127659574468
-Office Equipment,1638600,1638600,3,100.0
-Photography Equipment,765000,765000,1,100.0
-Audio Equipment,733500,733500,2,100.0
-Wearable Technology,412500,412500,1,100.0
-Display Devices,660000,399000,2,60.45454545454545
-Computer Accessories,404350,285600,2,70.63187832323482
-Storage Devices,619600,235200,2,37.959974176888316
-Networking Equipment,208000,208000,1,100.0
-Mobile Devices,1036200,0,3,0.0
-Mobile Accessories,73500,0,1,0.0
+category,total_inventory_value,product_count,capital_at_risk,risk_percentage
+Computers,4888000,2,3432000.0,70.2127659574468
+Office Equipment,1638600,3,1638600.0,100.0
+Photography Equipment,765000,1,765000.0,100.0
+Audio Equipment,733500,2,733500.0,100.0
+Wearable Technology,412500,1,412500.0,100.0
+Display Devices,660000,2,399000.0,60.45454545454545
+Computer Accessories,404350,2,285600.0,70.63187832323482
+Storage Devices,619600,2,235200.0,37.959974176888316
+Networking Equipment,208000,1,208000.0,100.0
+Mobile Devices,1036200,3,0.0,0.0
+Mobile Accessories,73500,1,0.0,0.0
